@@ -1,16 +1,16 @@
 {
   "manifest_version": 2,
 
-  "name": "NewText Plugin",
-  "description": "This extension will write new text on any page.",
+  "name": "Like!",
+  "description": "Thsi will save the URL of any website for later use.",
   "version": "1.0",
 
   "browser_action": {
-   "default_icon": "ext.png",
+   "default_icon": "Extension Echad.png",
    "default_popup": "popup.html"
   },
   "permissions": [
    "activeTab",
-	 "clipboardWrite"
+   "clipboardWrite"
    ]
 }
